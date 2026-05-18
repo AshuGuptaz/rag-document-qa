@@ -1,6 +1,6 @@
 # RAG-Based Document Q&A System
 
-An AI-powered backend API that lets users upload PDF documents and ask natural language questions. The system retrieves relevant content using vector search and generates accurate, grounded answers using an LLM — with zero hallucination risk since responses are strictly based on uploaded documents.
+An AI-powered backend API that lets users upload PDF documents and ask natural language questions. The system retrieves relevant content using vector search and generates accurate, grounded answers using an LLM — with 0 hallucination risk since responses are strictly based on uploaded documents.
 
 ---
 
